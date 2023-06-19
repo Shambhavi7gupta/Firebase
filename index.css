@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    
+}
+button{
+    margin-top: 10px;
+}
+.submit-btn{
+    position: absolute;
+    left: 40%;
+    bottom: 15%;
+    margin-top: 25%;
+}
+.login-btn{
+    position: absolute;
+    left: 50%;
+    bottom: 15%;
+    margin-top: 25%;
+}
